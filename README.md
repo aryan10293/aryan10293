@@ -1,4 +1,4 @@
-<img width="100%" height='40%' src="https://share.creavite.co/NYTnJXScrojruVxr.gif" alt="banner">
+![github](https://share.creavite.co/NYTnJXScrojruVxr.gif )
 <!-- https://share.creavite.co/NYTnJXScrojruVxr.gif -->
 <!-- https://share.creavite.co/P0q71jY3Z5qX22a6.gif -->
 <p align="center">
