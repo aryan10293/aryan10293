@@ -1,4 +1,4 @@
-![github](https://share.creavite.co/NYTnJXScrojruVxr.gif )
+![](https://github.com/aryan10293/aryan10293/blob/main/gif.png)
 <!-- https://share.creavite.co/NYTnJXScrojruVxr.gif -->
 <!-- https://share.creavite.co/P0q71jY3Z5qX22a6.gif -->
 <p align="center">
