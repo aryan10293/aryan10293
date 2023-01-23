@@ -1,4 +1,4 @@
-![logo](https://github.com/aryan10293/aryan10293/blob/main/gif.png)
+![logo](https://share.creavite.co/S9LnU6IDC8Sx69t6.gif)
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 <!-- https://share.creavite.co/NYTnJXScrojruVxr.gif -->
