@@ -1,5 +1,4 @@
-<img src="![image](https://user-images.githubusercontent.com/64954226/213967279-f22284d6-c823-4288-a9d0-257ad9d448fa.png)
-">
+<img src="https://share.creavite.co/S9LnU6IDC8Sx69t6.gif">
 <!-- https://share.creavite.co/NYTnJXScrojruVxr.gif -->
 <!-- https://share.creavite.co/P0q71jY3Z5qX22a6.gif -->
 <p align="center">
