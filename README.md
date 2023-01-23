@@ -1,4 +1,5 @@
-![](https://github.com/aryan10293/aryan10293/blob/main/gif.png)
+<img src="![image](https://user-images.githubusercontent.com/64954226/213967279-f22284d6-c823-4288-a9d0-257ad9d448fa.png)
+">
 <!-- https://share.creavite.co/NYTnJXScrojruVxr.gif -->
 <!-- https://share.creavite.co/P0q71jY3Z5qX22a6.gif -->
 <p align="center">
