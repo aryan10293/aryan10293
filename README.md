@@ -1,8 +1,4 @@
-![logo](https://share.creavite.co/S9LnU6IDC8Sx69t6.gif)
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
-<!-- https://share.creavite.co/NYTnJXScrojruVxr.gif -->
-<!-- https://share.creavite.co/P0q71jY3Z5qX22a6.gif -->
+<img width='100%' src='https://user-images.githubusercontent.com/64954226/213972422-cf822262-b4ff-4dff-952e-4e5e01cb6d4b.gif'>
 <p align="center">
     <a href="https://aondrejportfolio.netlify.app/" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
@@ -21,9 +17,16 @@
     </a>
   </p>
 
-Previously an Amazon Full-Stack Software Engineer, I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Business Management.
 
-See [my website](https://shawncharles.com) for more information!
+<p width="50%">Previously an Amazon Full-Stack Software Engineer, 
+I am motivated by the power of technology as a tool for positive change, 
+with a background in Math, Physics, and Business Management.
+</p>
+
+
+
+
+
 
 
 <h1 align="center">Projects</h1>
@@ -107,7 +110,7 @@ See [my website](https://shawncharles.com) for more information!
   </tr>
 </table>
 
-
+<img width='100%' height='400px' src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 <h1 align="center">Technologies</h1>
 
 
