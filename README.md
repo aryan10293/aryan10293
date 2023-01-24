@@ -36,8 +36,8 @@ with a background in Math, Physics, and Business Management.
     <td width="50%" valign="top">
       <h3 align="center">Weather.org</h3>
         <br />
-        <a target="_blank" href="http://travelara.herokuapp.com">
-            <img src="https://user-images.githubusercontent.com/64954226/214138194-8ed7707c-5e8e-42d8-944a-5ce986b2b2e1.gif" width="100%" alt="Travel App"/>
+        <a target="_blank" href="https://aryan10293.github.io/morePractice/">
+            <img src="https://user-images.githubusercontent.com/64954226/214138194-8ed7707c-5e8e-42d8-944a-5ce986b2b2e1.gif" width="100%" alt="Weather App"/>
         </a>
         <br />
         <p align="center">
@@ -49,21 +49,21 @@ with a background in Math, Physics, and Business Management.
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, CSS, HTML, API</strong> - Platform to help people check the weather locally or around the world!</p>
+        <p><strong>Javascript, CSS, HTML, API</strong> - Platform to help customers check the weather locally or around the world!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+      <h3 align="center">Doodle.io</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+      <a target="_blank" href="https://precious-otter-362739.netlify.app/">
+            <img src="https://user-images.githubusercontent.com/64954226/214228634-4500a05f-db6c-4632-84a8-805bf0f9df9d.gif" width="100%"  alt="drawing app"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+  <a href="https://github.com/aryan10293/tictactoe" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+  <a href="https://precious-otter-362739.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
