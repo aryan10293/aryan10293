@@ -73,7 +73,7 @@ with a background in Math, Physics, and Business Management.
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">BLACK JACK!!/h3>
+      <h3 align="center">BLACK JACK!!</h3>
       <br />
         <a target="_blank" href="https://aryan10293.github.io/cardGame/">
           <img src="https://user-images.githubusercontent.com/64954226/214764437-810be46c-d01f-4757-a3e6-f25e8fd57d61.gif" width="100%" alt="BLACKJACK"/>
@@ -89,23 +89,23 @@ with a background in Math, Physics, and Business Management.
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Test your luck before you hit the casino with my blackjack game!!</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" align="top">
       <h3 align="center">TIC TAC TOE</h3>
         <br />
         <a target="_blank" href="https://aryan10293.github.io/tictactoe/">
-          <img src="images/gif3.gif" width="100%" alt="tic tac toe"/>
+          <img src="https://user-images.githubusercontent.com/64954226/214770297-fbab8c44-5a29-448b-a4e1-2102052d260a.gif" width="100%" alt="tic tac toe"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+  <a href="https://github.com/aryan10293/tictactoe" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
+  <a href="https://aryan10293.github.io/tictactoe/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - lets play tic tac toe</p>
     </td>
   </tr>
 </table>
