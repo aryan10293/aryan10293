@@ -92,8 +92,8 @@ with a background in Math, Physics, and Business Management.
     <td width="50%" valign="top">
       <h3 align="center">TIC TAC TOE</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        <a target="_blank" href="https://aryan10293.github.io/tictactoe/">
+          <img src="images/gif3.gif" width="100%" alt="tic tac toe"/>
         </a>
         <br />
         <p align="center">
