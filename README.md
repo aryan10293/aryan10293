@@ -18,17 +18,6 @@
   </p>
 
 
-<p width="50%">Previously an Amazon Full-Stack Software Engineer, 
-I am motivated by the power of technology as a tool for positive change, 
-with a background in Math, Physics, and Business Management.
-</p>
-
-
-
-
-
-
-
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
