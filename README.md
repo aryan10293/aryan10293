@@ -1,6 +1,6 @@
 <img width='100%' src='https://user-images.githubusercontent.com/64954226/213972422-cf822262-b4ff-4dff-952e-4e5e01cb6d4b.gif'>
 <p align="center">
-    <a href="https://aondrejportfolio.netlify.app/" target="_blank">
+    <a href="https://aondrejryan.com" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
     </a>
     <a href="https://www.linkedin.com/in/aondrej-grant-ryan/" target="_blank">
