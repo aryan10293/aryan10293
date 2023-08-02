@@ -22,24 +22,7 @@
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Weather.org</h3>
-        <br />
-        <a target="_blank" href="https://aryan10293.github.io/morePractice/">
-            <img src="https://user-images.githubusercontent.com/64954226/214138194-8ed7707c-5e8e-42d8-944a-5ce986b2b2e1.gif" width="100%" alt="Weather App"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/aryan10293/morePractice" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://aryan10293.github.io/morePractice/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Javascript, CSS, HTML, API</strong> - Platform to help customers check the weather locally or around the world!</p>
-    </td>
+
     <td width="50%" valign="top">
       <h3 align="center">Doodle.io</h3>
         <br />
