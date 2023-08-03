@@ -38,25 +38,25 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, React, Tailwind CSS, HTML, Express.js, webSocket</strong> - A social Media app to help connect Athletes</p>
+        <p><strong>Javascript, React, Tailwind CSS, HTML, Express.js, webSocket</strong> - A Social Media app to help connect Athletes</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Doodle.io</h3>
+      <h3 align="center">The Random Shop</h3>
         <br />
-      <a target="_blank" href="https://precious-otter-362739.netlify.app/">
-            <img src="https://user-images.githubusercontent.com/64954226/214228634-4500a05f-db6c-4632-84a8-805bf0f9df9d.gif" width="100%"  alt="drawing app"/>
+      <a target="_blank" href="https://ecommerce-2t1a.vercel.app/">
+            <img src="https://github.com/aryan10293/ecommerce/assets/64954226/24b9570f-0bd9-4125-b75b-7ea7bf9ccfff" width="100%"  alt="drawing app"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/aryan10293/tictactoe" target="_blank">
+  <a href="https://github.com/aryan10293/ecommerce" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://precious-otter-362739.netlify.app/" target="_blank">
+  <a href="https://ecommerce-2t1a.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript & CSS</strong> - Bored on the go let your creativity flow with doodle.io.</p>
+        <p><strong>Javascript, React, Tailwind CSS, HTML, Express.js, API </strong> - An App to help users search for products and securely purchase them</p>
     </td>
   </tr>
   
