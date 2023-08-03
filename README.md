@@ -79,22 +79,22 @@
         <p><strong>HTML5, CSS3, & Javascript</strong> - Test your luck before you hit the casino with my blackjack game!!</p>
     </td>
     <td width="50%" align="top">
-      <h3 align="center">TIC TAC TOE</h3>
+      <h3 align="center">Weather.org</h3>
         <br />
-        <a target="_blank" href="https://aryan10293.github.io/tictactoe/">
-          <img src="https://user-images.githubusercontent.com/64954226/214770297-fbab8c44-5a29-448b-a4e1-2102052d260a.gif" width="100%" alt="tic tac toe"/>
+        <a target="_blank" href="https://aryan10293.github.io/morePractice/">
+          <img src="https://user-images.githubusercontent.com/64954226/214138194-8ed7707c-5e8e-42d8-944a-5ce986b2b2e1.gif" width="100%" alt="tic tac toe"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/aryan10293/tictactoe" target="_blank">
+  <a href="https://github.com/aryan10293/morePractice" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://aryan10293.github.io/tictactoe/" target="_blank">
+  <a href="https://aryan10293.github.io/morePractice/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - lets play tic tac toe</p>
+        <p><strong>Javascript, CSS, HTML, API</strong> - Platform to help customers check the weather locally or around the world!</p>
     </td>
   </tr>
 </table>
