@@ -40,25 +40,24 @@
                     help connect Athletes</p>
             </td>
             <td width="50%" valign="top">
-                <h3 align="center">BLACK JACK!!</h3>
+                <h3 align="center">The Recipe App</h3>
                 <br />
-                <a target="_blank" href="https://aryan10293.github.io/cardGame/">
+                <a target="_blank" href="https://recipe-app-nine-iota.vercel.app/">
                     <img src="https://user-images.githubusercontent.com/64954226/214764437-810be46c-d01f-4757-a3e6-f25e8fd57d61.gif"
                         width="100%" alt="BLACKJACK" />
                 </a>
                 <br />
                 <p align="center">
-                    <a href="https://github.com/aryan10293/cardGame" target="_blank">
+                    <a href="https://github.com/aryan10293/recipeApp" target="_blank">
                         <img
                             src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
                     </a>
-                    <a href="https://aryan10293.github.io/cardGame/" target="_blank">
+                    <a href="https://recipe-app-nine-iota.vercel.app/" target="_blank">
                         <img
                             src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
                     </a>
                 </p>
-                <p><strong>HTML5, CSS3, & Javascript</strong> - Test your luck before you hit the casino with my blackjack
-                    game!!</p>
+                <p><strong>Typescript, React, Tailwind, CSS, HTML, Express.js, webSocket, Vercel, Render</strong> - An app to help find your cooking needs and connect with other chefs or hobbiest</p>
             </td>
         </tr>
         <tr>
