@@ -43,8 +43,7 @@
                 <h3 align="center">The Recipe App</h3>
                 <br />
                 <a target="_blank" href="https://recipe-app-nine-iota.vercel.app/">
-                    <img src="https://user-images.githubusercontent.com/64954226/214764437-810be46c-d01f-4757-a3e6-f25e8fd57d61.gif"
-                        width="100%" alt="BLACKJACK" />
+                    <img width="1439" alt="recipapp" src="https://github.com/user-attachments/assets/04cb72df-a455-4877-8c4b-98b3cab4615b">
                 </a>
                 <br />
                 <p align="center">
